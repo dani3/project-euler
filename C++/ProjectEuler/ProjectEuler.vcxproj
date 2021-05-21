@@ -139,12 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises.cpp" />
+    <ClCompile Include="Problem1.cpp" />
+    <ClCompile Include="Problem4.cpp" />
+    <ClCompile Include="Problem5.cpp" />
     <ClCompile Include="ProjectEuler.cpp" />
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exercises.h" />
+    <ClInclude Include="Problem1.h" />
+    <ClInclude Include="Problem4.h" />
+    <ClInclude Include="Problem5.h" />
     <ClInclude Include="Utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
